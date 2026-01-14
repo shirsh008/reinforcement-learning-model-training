@@ -1,1 +1,1 @@
-In this reposatory I am uploading my work I learned to master reinforcement learning
+In this reposatory I am uploading my work I did to master reinforcement learning
