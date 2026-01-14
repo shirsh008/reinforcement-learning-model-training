@@ -1,1 +1,5 @@
-
+used different tools to train different models
+used deep q learning and neural netwrok method to propogate in single and multiple vrp rl models
+created plots for course of learning and to see their behaviour with environment 
+used 4 vehicles for multiple vrp models
+used ortools to train cvrp and time constraint vrp
